@@ -22,13 +22,9 @@ Data = read_data()
 DataX = Data #needed when data is displayed by quarter
 PlotType = ""
 text = ""
-autoscroll_starting_threshold= -1
-autoscroll_set_on_load = True
 
 
 
-
-autoscroll_starting_threshold(value=-1)
 
 
 
