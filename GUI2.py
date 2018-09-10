@@ -35,9 +35,7 @@ PlotType = ""
 text = ""
 
 
-#import sys
-#reload(sys)
-#sys.setdefaultencoding('utf8')
+ 
 
 
 def ff(i , j):

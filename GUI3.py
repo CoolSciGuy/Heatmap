@@ -24,9 +24,11 @@ PlotType = ""
 text = ""
 autoscroll_starting_threshold= -1
 autoscroll_set_on_load = True
-#import sys
-#reload(sys)
-#sys.setdefaultencoding('utf8')
+
+
+
+
+ 
 
 
 def ff(i , j , k):
