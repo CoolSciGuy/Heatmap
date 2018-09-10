@@ -28,7 +28,8 @@ autoscroll_set_on_load = True
 
 
 
- 
+autoscroll_starting_threshold(value=-1)
+
 
 
 def ff(i , j , k):
@@ -66,6 +67,6 @@ display(ui, out)
 
 
 
-#
+ 
 #get_ipython().run_line_magic('matplotlib', 'tk') 
 #ff(["PMS31"],"Escherichia coli")
