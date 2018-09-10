@@ -365,6 +365,8 @@ def AnaVSPot5( DataX ,   Station , Constituent , time ):
     
     import seaborn as sns
     
+
+    autoscroll_starting_threshold=-1
     
     Data= DataX.dropna(subset = [Constituent]) 
     DataX=Data
